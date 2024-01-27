@@ -29,22 +29,22 @@ The purpose of building the application is:
     - Manage their placed orders and provide feedback, ratings, and comments to the Administrator.
 
 ## Demo
-Home Page\
+Home Page    
 ![Alt text](./Screenshots/Screenshot_1.png) 
-Menu Category\
+Menu Category    
 ![Alt text](./Screenshots/Screenshot_2.png)
-Best-selling book page\
+Best-selling book page    
 ![Alt text](./Screenshots/Screenshot_3.png)
-Product Details Page\
+Product Details Page   
 ![Alt text](./Screenshots/Screenshot_4.png)
 ![Alt text](./Screenshots/Screenshot_5.png)
-Shopping Cart Page\
+Shopping Cart Page   
 ![Alt text](./Screenshots/Screenshot_6.png)
-Order Page\
+Order Page    
 ![Alt text](./Screenshots/Screenshot_22.png)
-Registration Page\
+Registration Page    
 ![Alt text](./Screenshots/Screenshot_23.png)
-Login Page\
+Login Page     
 ![Alt text](./Screenshots/Screenshot_24.png)
 Admin Home Page
 ![Alt text](./Screenshots/Screenshot_7.png)
